@@ -21,8 +21,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png" title="Springboot" alt="Springboot" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoya89&theme=tokyonight)](https://github.com/MiguelMoya89)
- 
 </div>
 
  
@@ -34,15 +32,6 @@
 ### 📊 My Stats :
 
  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguelMoya89&theme=tokyonight)](https://github.com/MiguelMoya89)
-
- 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMoya89&show_icons=true&theme=tokyonight)](https://github.com/MiguelMoya89)
-
- 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoya89&theme=tokyonight)](https://github.com/MiguelMoya89)
 
  
