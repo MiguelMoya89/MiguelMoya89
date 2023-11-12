@@ -19,7 +19,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="35" height="35"/>&nbsp;
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png" title="Springboot" alt="Springboot" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoya89&theme=tokyonight)](https://github.com/MiguelMoya89)
+ 
 </div>
 
  
