@@ -22,8 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
 </div>
 
- 
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMoya89&theme=tokyonight)](https://github.com/MiguelMoya89)
