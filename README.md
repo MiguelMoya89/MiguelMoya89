@@ -7,7 +7,7 @@
 
  
 
-<div align="left">
+<div align="center">
 <h3>⚒️ Technologies and Skills:</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>
